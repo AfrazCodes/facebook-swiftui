@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "https___specials-images.forbesimg.com_imageserve_5bb22ae84bbe6f67d2e82e05_0x0.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
